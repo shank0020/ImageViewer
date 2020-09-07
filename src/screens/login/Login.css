@@ -3,3 +3,15 @@
     flex-direction: column;
   }
 
+.dispBlock {
+    display: block;
+}
+
+.red {
+    color: red;
+}
+  
+.dispNone {
+    display:none;
+}
+
