@@ -1,19 +1,15 @@
-.main-container{
-    display: flex;
-    flex-direction: column;
-  }
+.dispNone {
+    display:none;
+}
 
-.dispBlock {
+.dispBlock { 
     display: block;
 }
 
 .red {
     color: red;
 }
-  
-.dispNone {
-    display:none;
-}
-.dispNone {
-    display:none;
+.main-container{
+  display: flex;
+  flex-direction: column;
 }
