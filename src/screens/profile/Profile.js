@@ -249,11 +249,11 @@ class Profile extends Component {
               </div>
               <div style={{ float: "left", width: "200px", fontSize: "small" }}>
                 {" "}
-                Follows: {360}{" "}
+                Follows: {100}{" "}
               </div>
               <div style={{ float: "left", width: "200px", fontSize: "small" }}>
                 {" "}
-                Followed By: {896}
+                Followed By: {10000}
               </div>{" "}
               <br />
             </div>
