@@ -56,7 +56,7 @@ class Login extends Component {
       sessionStorage.setItem("username", "admin");
       sessionStorage.setItem(
         "access-token",
-        "IGQVJVNElhbExwRlU1ZAmFwSzRQb1otV2l0VUFqZATlaS05EQV9xSnJ5RWVBWnhLYjltaTMwUVprWjMzVXNZAVnI5S0JiYkNwQ2RleVRJUlpmd2VGNzFCTEt0cDQ3SWZAUd2tuUmUzQVphWGtBcDN4R2thQzBXd2h4ZAm5qazEw"
+        "IGQVJWb0E5TDVFckxvZA0FhTnAtSkRxRXpZAelFFLUU0WmRyazZAWY0xPVk9LNEhiVkpDd1k5Yzh2aHJNcFVfNkdJX05ydzk2THFKOHFoeWRzUHdmOGF2OGVyNTJWeHMxVTVMSjhPQjE1dFp0S08xZAHRvQwZDZD"
       );
       this.setState({ loggedIn: true });
       this.navigateToHome();
